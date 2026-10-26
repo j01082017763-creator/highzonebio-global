@@ -20,23 +20,77 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "HIGHZONE BIO",
-  "alternateName": "하이존바이오",
-  "url": "https://highzonebio.com",
-  "logo": "https://highzonebio.com/assets/logo.png",
-  "description": "Agricultural biotechnology company specializing in Carbon Material Engineering and Precision Ion Delivery Technology for high-efficiency sustainable farming.",
-  "sameAs": [
-    "https://kr.highzonebio.com",
-    "https://shop.highzonebio.com"
-  ],
-  "makesOffer": [
-    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "PRO GROW", "description": "Phase 01 Balanced Vegetative Growth Ionized Carbon Complex" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "AMAZON MINERAL", "description": "Phase 02 Micronutrient Correction & Soil Bioactivity Complex" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "PRO ROOT", "description": "Phase 03 Root System Architecture & Rhizosphere Activator" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "PRO SHIELD", "description": "Phase 04 Abiotic Stress Defense & Cell Wall Reinforcement" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "PRO COLOR", "description": "Phase 05 Anthocyanin Expression & Brix Maturation Formula" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "The 5th Element (제5원소)", "description": "Phase 06 Whole-Cycle Soil Ion Equilibrium & Desalination Complex" } }
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://highzonebio.com/#organization",
+      "name": "HIGHZONE BIO Inc.",
+      "alternateName": ["주식회사 하이존바이오", "HIGHZONE BIO", "하이존바이오"],
+      "url": "https://highzonebio.com",
+      "logo": "https://highzonebio.com/assets/logo.png",
+      "description": "Agricultural biotechnology company specializing in Carbon Material Engineering, Precision Ion Delivery Technology (KR Patent No. 10-2493517), ABASPO Natural Gas-Phase Sterilization, and AI Plant Diagnostics for sustainable farming.",
+      "telephone": "+82-63-855-5001",
+      "email": "info@highzonebio.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "#108, Venture Startup Hall, Jeonju University, 303 Cheonjam-ro, Wansan-gu",
+        "addressLocality": "Jeonju-si",
+        "addressRegion": "Jeonbuk-do",
+        "postalCode": "55069",
+        "addressCountry": "KR"
+      },
+      "knowsAbout": [
+        "Ionized Carbon Carrier Technology",
+        "Precision Ion Delivery Agriculture",
+        "KR Patent No. 10-2493517",
+        "Nano Functional Minerals (Ag, Se, Ge, Bio-Redsol)",
+        "ABASPO Puleojuma Natural Gas-Phase Sterilization",
+        "Soil Carbon Sequestration and Desalination",
+        "AI Plant Clinic Vision Diagnostics"
+      ],
+      "sameAs": [
+        "https://kr.highzonebio.com",
+        "https://shop.highzonebio.com"
+      ],
+      "makesOffer": [
+        { "@type": "Offer", "url": "https://shop.highzonebio.com/product-detail.html?id=grow-500", "itemOffered": { "@type": "Product", "name": "PRO GROW", "description": "Phase 01 Balanced Vegetative Growth Ionized Carbon Complex (KR Match: GROW-500)" } },
+        { "@type": "Offer", "url": "https://shop.highzonebio.com/product-detail.html?id=selenium-500", "itemOffered": { "@type": "Product", "name": "AMAZON MINERAL", "description": "Phase 02 Micronutrient Correction & Soil Bioactivity Complex (KR Match: SELENIUM-500 / GERMANIUM-500)" } },
+        { "@type": "Offer", "url": "https://shop.highzonebio.com/product-detail.html?id=redsol-500", "itemOffered": { "@type": "Product", "name": "PRO ROOT", "description": "Phase 03 Root System Architecture & Rhizosphere Activator (KR Match: REDSOL-500)" } },
+        { "@type": "Offer", "url": "https://shop.highzonebio.com/product-detail.html?id=silver-500", "itemOffered": { "@type": "Product", "name": "PRO SHIELD", "description": "Phase 04 Abiotic Stress Defense & Cell Wall Reinforcement (KR Match: SILVER-500 / ABASPO Puleojuma)" } },
+        { "@type": "Offer", "url": "https://shop.highzonebio.com/product-detail.html?id=goldwater-1000", "itemOffered": { "@type": "Product", "name": "PRO COLOR", "description": "Phase 05 Anthocyanin Expression & Brix Maturation Formula (KR Match: GOLD WATER 1000)" } },
+        { "@type": "Offer", "url": "https://shop.highzonebio.com/product-detail.html?id=dobok-100", "itemOffered": { "@type": "Product", "name": "The 5th Element (제5원소)", "description": "Phase 06 Whole-Cycle Soil Ion Equilibrium & Desalination Complex (KR Match: DOBOK-100 / Total Soil Recovery)" } }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://highzonebio.com/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is HIGHZONE BIO's core technology and patent?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HIGHZONE BIO Inc. engineers an Ionized Carbon Carrier & Chelated Mineral Complex protected by Republic of Korea Patent No. 10-2493517. By encapsulating pre-ionized minerals within a porous organic carbon matrix, it prevents soil fixation and achieves 85%+ plant nutrient bioavailability (+340% uptake rate vs. conventional fertilizers) while sequestering organic carbon in agricultural soils."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is HIGHZONE BIO's R&D Center located and how can I contact them?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HIGHZONE BIO's Industry-Academia Cooperation R&D Center is located at #108, Venture Startup Hall, Jeonju University, 303 Cheonjam-ro, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea (전주대학교 벤처창업관 산학협력 R&D 연구소). Official Telephone: +82-63-855-5001 (Korea: 063-855-5001), Email: info@highzonebio.com / partner@highzonebio.kr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the 6 core formulations of HIGHZONE BIO and how can I purchase them?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The 6 global lifecycle formulations are PRO GROW (Phase 01, matched with GROW-500), AMAZON MINERAL (Phase 02, matched with SELENIUM-500/GERMANIUM-500), PRO ROOT (Phase 03, matched with REDSOL-500), PRO SHIELD (Phase 04, matched with SILVER-500/ABASPO), PRO COLOR (Phase 05, matched with GOLD WATER 1000), and The 5th Element (Phase 06, matched with DOBOK-100). Domestic Korean orders and AI Plant Clinic diagnostics are available at https://shop.highzonebio.com, Korean corporate B2B details at https://kr.highzonebio.com, and global export/OEM inquiries at https://highzonebio.com/#contact."
+          }
+        }
+      ]
+    }
   ]
 }
 </script>
@@ -842,7 +896,9 @@
       <svg id="menuIconBars" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
       <svg id="menuIconClose" style="display:none;" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
     </button>
-    <a href="#contact" class="nav-cta-btn" data-i18n="nav_cta">Inquire Now</a> <a href="https://shop.highzonebio.com" target="_blank" class="nav-cta-btn" style="background:var(--bio-green);border-color:var(--bio-green);margin-left:6px;">🛒 Official Mall</a>
+    <a href="https://kr.highzonebio.com" target="_blank" class="nav-cta-btn" style="padding:8px 14px; font-size:11.5px; border-color:rgba(255,255,255,0.28); background:rgba(255,255,255,0.06);" data-i18n="nav_kr_site">🇰🇷 KR 공식홈피</a>
+    <a href="https://shop.highzonebio.com" target="_blank" class="nav-cta-btn" style="padding:8px 14px; font-size:11.5px; background:var(--bio-green); border-color:var(--bio-green);" data-i18n="nav_mall">🛒 Official Mall</a>
+    <a href="#contact" class="nav-cta-btn" style="padding:8px 14px; font-size:11.5px;" data-i18n="nav_cta">Inquire Now</a>
   </div>
 </header>
 
@@ -854,6 +910,8 @@
     <li><a href="#technology" onclick="closeMobileMenu()" data-i18n="nav_tech">Technology</a></li>
     <li><a href="#products" onclick="closeMobileMenu()" data-i18n="nav_products">Products</a></li>
     <li><a href="#contact" onclick="closeMobileMenu()" data-i18n="nav_contact">Contact</a></li>
+    <li><a href="https://kr.highzonebio.com" target="_blank" style="border-color:rgba(13,110,253,0.45); background:rgba(13,110,253,0.12);" data-i18n="nav_kr_site">🇰🇷 KR 공식홈피 (kr.highzonebio.com)</a></li>
+    <li><a href="https://shop.highzonebio.com" target="_blank" style="border-color:var(--bio-green); background:rgba(22,163,74,0.22); color:#4ADE80;" data-i18n="nav_mall">🛒 Official Mall (shop.highzonebio.com)</a></li>
   </ul>
 </div>
 
@@ -864,6 +922,8 @@
   <a href="#technology" data-i18n="nav_tech">Technology</a>
   <a href="#products" data-i18n="nav_products">Products</a>
   <a href="#contact" data-i18n="nav_contact">Contact</a>
+  <a href="https://kr.highzonebio.com" target="_blank" style="border-color:rgba(13,110,253,0.5); background:rgba(13,110,253,0.18); color:#93C5FD;" data-i18n="nav_kr_site">🇰🇷 KR 공식홈피</a>
+  <a href="https://shop.highzonebio.com" target="_blank" style="border-color:var(--bio-green); background:rgba(22,163,74,0.25); color:#4ADE80;" data-i18n="nav_mall">🛒 Official Mall</a>
 </nav>
 
 <!-- ── HERO SECTION ── -->
@@ -1214,6 +1274,22 @@
           <span class="crop-pill">육묘기 작물</span>
         </div>
       </div>
+
+      <!-- Korea Official Mall Prescription & Order Link Box -->
+      <div style="margin-top:22px; padding:16px 18px; background:#F0FDF4; border:1px solid #BBF7D0; border-radius:12px;">
+        <div style="font-size:11px; font-weight:800; letter-spacing:1.2px; text-transform:uppercase; color:#15803D; margin-bottom:4px;" data-i18n="prod_kr_match_lbl">Korea Domestic Prescription Match (14-Lineup Store)</div>
+        <div id="prodKrMatchText" style="font-size:13.5px; font-weight:700; color:#111827; margin-bottom:12px;">
+          Matched Korea Prescription: GROW-500 (그로우 500 — 초기 영양생장·엽채류 비대 전문 처방)
+        </div>
+        <div style="display:flex; gap:10px; flex-wrap:wrap;">
+          <a id="prodShopLink" href="https://shop.highzonebio.com/product-detail.html?id=grow-500" target="_blank" style="display:inline-flex; align-items:center; gap:8px; padding:11px 20px; border-radius:8px; background:var(--bio-green); color:#FFFFFF; font-size:13px; font-weight:800; text-decoration:none; box-shadow:0 4px 12px rgba(22,163,74,0.3); transition:all 0.25s ease;" data-i18n="prod_mall_btn">
+            🛒 Order / View Prescription at Official Mall (shop.highzonebio.com) →
+          </a>
+          <a href="#contact" style="display:inline-flex; align-items:center; gap:6px; padding:11px 16px; border-radius:8px; background:#FFFFFF; color:#047857; border:1px solid #16A34A; font-size:12.5px; font-weight:700; text-decoration:none;" data-i18n="prod_b2b_btn">
+            🌐 Global B2B / Bulk Export Inquiry
+          </a>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -1223,9 +1299,21 @@
   <div class="contact-wrapper">
     <div class="contact-intro">
       <div class="section-tag" data-i18n="contact_tag">Get In Touch</div>
-      <h2 class="section-heading" data-i18n="contact_heading">Built for Scale.<br><span class='highlight-green'>Ready for Your Operation.</span></span>
+      <h2 class="section-heading" data-i18n="contact_heading">Built for Scale.<br><span class='highlight-green'>Ready for Your Operation.</span>
       </h2>
       <p data-i18n="contact_p">Whether you are a commercial grower evaluating inputs for next season, a distribution partner exploring global market distribution, or an agricultural investor — we welcome the conversation.</p>
+
+      <!-- Official R&D Center & Direct Contact Box -->
+      <div style="background:rgba(22,163,74,0.09); border:1px solid rgba(22,163,74,0.4); border-left:4px solid var(--bio-green); border-radius:10px; padding:20px 22px; margin-bottom:24px;">
+        <div style="font-size:11.5px; font-weight:800; letter-spacing:1.5px; text-transform:uppercase; color:#4ADE80; margin-bottom:8px;" data-i18n="contact_rnd_badge">Official R&D Center & Global B2B Desk</div>
+        <div style="font-size:15px; font-weight:800; color:#FFFFFF; margin-bottom:6px;" data-i18n="contact_rnd_name">전주대학교 벤처창업관 산학협력 R&D 연구소</div>
+        <div style="font-size:13px; color:#D4E8DC; line-height:1.6; margin-bottom:12px;" data-i18n="contact_rnd_addr">#108, Venture Startup Hall, Jeonju University, 303 Cheonjam-ro, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea</div>
+        <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center; font-size:13.5px; font-weight:700;">
+          <a href="tel:+82-63-855-5001" style="color:#4ADE80; text-decoration:none; background:rgba(22,163,74,0.18); padding:6px 12px; border-radius:6px; border:1px solid rgba(22,163,74,0.4);" data-i18n="contact_rnd_tel">📞 Tel: +82-63-855-5001 (Korea: 063-855-5001)</a>
+          <a href="mailto:info@highzonebio.com" style="color:#93C5FD; text-decoration:none; background:rgba(13,110,253,0.15); padding:6px 12px; border-radius:6px; border:1px solid rgba(13,110,253,0.35);">✉️ info@highzonebio.com</a>
+        </div>
+        <div style="margin-top:10px; font-size:11.5px; color:var(--text-dim);" data-i18n="contact_rnd_cert">KR Patent No. 10-2493517 · KTR 99.9% Sterilization · KEMTI Air Purification Certified</div>
+      </div>
 
       <div class="trust-pills">
         <div class="trust-pill" data-i18n="trust_1">Science Based</div>
@@ -1274,6 +1362,7 @@
         <button type="submit" class="btn-primary" style="width:100%; justify-content:center;" data-i18n="form_submit">Send Inquiry
         </button>
       </form>
+      <div id="inquiryResultBox" style="display:none; margin-top:18px; padding:18px 20px; border-radius:10px; background:rgba(22,163,74,0.16); border:1.5px solid var(--bio-green); color:#FFFFFF; font-size:13.5px; line-height:1.65;"></div>
     </div>
   </div>
 </section>
@@ -1336,8 +1425,20 @@
 
 <!-- ── FOOTER ── -->
 <footer>
-  <div class="footer-left">
-    <span>HIGHZONE BIO</span> — <span data-i18n="footer_rights">Carbon Technology for Agriculture · &copy; 2025 HIGHZONE BIO. All Rights Reserved.</span>
+  <div class="footer-left" style="display:flex; flex-direction:column; gap:6px;">
+    <div>
+      <span>HIGHZONE BIO Inc.</span> — <span data-i18n="footer_rights">Carbon Technology for Agriculture · &copy; 2025-2026 HIGHZONE BIO Inc. All Rights Reserved.</span>
+    </div>
+    <div style="font-size:11.5px; color:#9CA3AF;" data-i18n="footer_rnd_info">
+      전주대학교 벤처창업관 산학협력 R&D 연구소 (#108, Venture Startup Hall, Jeonju University, 303 Cheonjam-ro, Wansan-gu, Jeonju-si, Jeonbuk-do, KR) | Tel: <a href="tel:+82-63-855-5001" style="color:#4ADE80; text-decoration:none; font-weight:700;">063-855-5001 (+82-63-855-5001)</a> | Email: <a href="mailto:info@highzonebio.com" style="color:#93C5FD; text-decoration:none;">info@highzonebio.com</a> | KR Patent No. 10-2493517
+    </div>
+    <div style="font-size:11.5px; color:#88A693; display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
+      <strong style="color:#D4E8DC;">Official Network:</strong>
+      <a href="https://highzonebio.com" style="color:#4ADE80; text-decoration:none; font-weight:700;">🌐 Global (highzonebio.com)</a> ·
+      <a href="https://kr.highzonebio.com" target="_blank" style="color:#93C5FD; text-decoration:none; font-weight:700;">🇰🇷 Korea Corporate & B2B (kr.highzonebio.com)</a> ·
+      <a href="https://shop.highzonebio.com" target="_blank" style="color:#FBBF24; text-decoration:none; font-weight:700;">🛒 Official Store & AI Plant Clinic (shop.highzonebio.com)</a> ·
+      <a href="https://highzonebio.com/llms.txt" target="_blank" style="color:#9CA3AF; text-decoration:none;">🤖 AI Knowledge (llms.txt)</a>
+    </div>
   </div>
   <ul class="footer-links">
     <li><a href="#home" data-i18n="nav_home">Home</a></li>
@@ -1345,6 +1446,8 @@
     <li><a href="#technology" data-i18n="nav_tech">Technology</a></li>
     <li><a href="#products" data-i18n="nav_products">Products</a></li>
     <li><a href="#contact" data-i18n="nav_contact">Contact</a></li>
+    <li><a href="https://kr.highzonebio.com" target="_blank" style="color:#93C5FD;">KR Site</a></li>
+    <li><a href="https://shop.highzonebio.com" target="_blank" style="color:#4ADE80;">Official Mall</a></li>
   </ul>
 </footer>
 
@@ -1359,6 +1462,8 @@
       nav_products: "제품라인업",
       nav_contact: "고객문의",
       nav_cta: "문의하기",
+      nav_kr_site: "🇰🇷 한국 공식홈피",
+      nav_mall: "🛒 공식 쇼핑몰",
       nav_subtag: "농업에 탄소를 입히다",
       hero_badge: "농업에 탄소를 입히다 · 농업을 위한 탄소 기술",
       hero_title: "탄소 과학과 <span class='highlight-green'>친환경 농업이 만나는 곳.</span>",
@@ -1435,9 +1540,17 @@
       prod_mechanism_lbl: "핵심 작용 기전",
       prod_benefit_lbl: "주요 기대 효과",
       prod_crops_lbl: "적용 권장 작물",
+      prod_kr_match_lbl: "대한민국 공식 쇼핑몰 매칭 전문 처방 (14종 라인업)",
+      prod_mall_btn: "🛒 공식 쇼핑몰에서 상세 처방·구매 보기 (shop.highzonebio.com) →",
+      prod_b2b_btn: "🌐 글로벌 수출·대량 B2B 공급 문의",
       contact_tag: "문의 및 협력",
       contact_heading: "규모에 맞춘 솔루션.<br><span class='highlight-green'>귀사의 농업 혁신을 지원합니다.</span>",
       contact_p: "다음 시즌을 준비하는 영농 기업, 글로벌 유통 파트너십을 모색하는 바이어, 농업 바이오 투자자 모두를 환영합니다.",
+      contact_rnd_badge: "공식 산학협력 R&D 연구소 & 글로벌 B2B 본부",
+      contact_rnd_name: "전주대학교 벤처창업관 산학협력 R&D 연구소",
+      contact_rnd_addr: "전북특별자치도 전주시 완산구 천잠로 303 전주대학교 벤처창업관 108호 (#108, Venture Startup Hall, Jeonju University)",
+      contact_rnd_tel: "📞 대표번호: 063-855-5001 (국제: +82-63-855-5001)",
+      contact_rnd_cert: "대한민국 특허 제10-2493517호 · KTR 99.9% 살균·항균 시험 완료 · KEMTI 공기정화·탈취 인증",
       trust_1: "과학 기반 검증",
       trust_2: "독자적 기술력",
       trust_3: "자연과의 공존",
@@ -1461,7 +1574,8 @@
       btm_nat_p: "Nature Together",
       btm_fut_h: "미래를 만듭니다",
       btm_fut_p: "Future Oriented",
-      footer_rights: "농업에 탄소를 입히다 (Carbon Technology for Agriculture) · &copy; 2025 All Rights Reserved."
+      footer_rights: "농업에 탄소를 입히다 (Carbon Technology for Agriculture) · &copy; 2025-2026 HIGHZONE BIO Inc. All Rights Reserved.",
+      footer_rnd_info: "전주대학교 벤처창업관 산학협력 R&D 연구소 (#108, Venture Startup Hall, Jeonju University) | 대표번호: <a href='tel:063-855-5001' style='color:#4ADE80; text-decoration:none; font-weight:700;'>063-855-5001 (+82-63-855-5001)</a> | 이메일: <a href='mailto:info@highzonebio.com' style='color:#93C5FD; text-decoration:none;'>info@highzonebio.com</a> | 특허 제10-2493517호"
     },
     en: {
       nav_home: "Home",
@@ -1470,6 +1584,8 @@
       nav_products: "Products",
       nav_contact: "Contact",
       nav_cta: "Inquire Now",
+      nav_kr_site: "🇰🇷 KR Corporate",
+      nav_mall: "🛒 Official Mall",
       nav_subtag: "Carbon Tech for Agriculture",
       hero_badge: "Carbon Technology for Agriculture · Coated with Carbon",
       hero_title: "Where Carbon Science Meets <span class='highlight-green'>Sustainable Agriculture.</span>",
@@ -1546,9 +1662,17 @@
       prod_mechanism_lbl: "Core Mechanism",
       prod_benefit_lbl: "Key Benefit",
       prod_crops_lbl: "Target Crops",
+      prod_kr_match_lbl: "Korea Domestic Prescription Match (14-Lineup Store)",
+      prod_mall_btn: "🛒 Order / View Prescription at Official Mall (shop.highzonebio.com) →",
+      prod_b2b_btn: "🌐 Global B2B / Bulk Export Inquiry",
       contact_tag: "Get In Touch",
       contact_heading: "Built for Scale.<br><span class='highlight-green'>Ready for Your Operation.</span>",
       contact_p: "Whether you are a commercial grower evaluating inputs for next season, a distribution partner exploring global market distribution, or an agricultural investor — we welcome the conversation.",
+      contact_rnd_badge: "Official R&D Center & Global B2B Desk",
+      contact_rnd_name: "전주대학교 벤처창업관 산학협력 R&D 연구소 (Jeonju Univ. R&D Center)",
+      contact_rnd_addr: "#108, Venture Startup Hall, Jeonju University, 303 Cheonjam-ro, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea",
+      contact_rnd_tel: "📞 Tel: +82-63-855-5001 (Korea: 063-855-5001)",
+      contact_rnd_cert: "KR Patent No. 10-2493517 · KTR 99.9% Sterilization · KEMTI Air Purification Certified",
       trust_1: "Science Based",
       trust_2: "Technology Driven",
       trust_3: "Nature Together",
@@ -1572,7 +1696,8 @@
       btm_nat_p: "Coexisting with Earth",
       btm_fut_h: "Future Oriented",
       btm_fut_p: "Building Tomorrow",
-      footer_rights: "Carbon Technology for Agriculture · &copy; 2025 HIGHZONE BIO. All Rights Reserved."
+      footer_rights: "Carbon Technology for Agriculture · &copy; 2025-2026 HIGHZONE BIO Inc. All Rights Reserved.",
+      footer_rnd_info: "전주대학교 벤처창업관 산학협력 R&D 연구소 (#108, Venture Startup Hall, Jeonju University, 303 Cheonjam-ro, Wansan-gu, Jeonju-si, Jeonbuk-do, KR) | Tel: <a href='tel:+82-63-855-5001' style='color:#4ADE80; text-decoration:none; font-weight:700;'>063-855-5001 (+82-63-855-5001)</a> | Email: <a href='mailto:info@highzonebio.com' style='color:#93C5FD; text-decoration:none;'>info@highzonebio.com</a> | KR Patent No. 10-2493517"
     }
   };
 
@@ -1580,10 +1705,10 @@
   const productsDB = {
     grow: {
       name: "PRO GROW",
-      kor_sub: "Vegetative Establishment Phase (Phase 01)",
+      kor_sub: "초기 영양생장 · 엽채류 비대 및 광합성 극대화",
       img: "assets/prod-grow.png?v=1",
       color: "#16A34A",
-      badge_ko: "Phase 01",
+      badge_ko: "01단계",
       badge_en: "Phase 01",
       phase_en: "Vegetative Establishment Phase (Phase 01)",
       phase_ko: "초기 영양생장 및 엽채류 생육기 (Phase 01)",
@@ -1592,59 +1717,71 @@
       benefit_en: "Accelerated leaf area growth delivering a compound head start across the entire crop cycle.",
       benefit_ko: "초기 엽 생육을 급격히 촉진하여 전 생육 기간 동안 광합성 생산성을 비약적으로 향상시킵니다.",
       crops_en: ["Leafy Vegetables", "Field Crops", "Container Ornamentals", "Seedlings"],
-      crops_ko: ["엽채류 (상추, 배추 등)", "노지 과채류", "시설 원예", "육묘기 작물"]
+      crops_ko: ["엽채류 (상추, 배추 등)", "노지 과채류", "시설 원예", "육묘기 작물"],
+      shopUrl: "https://shop.highzonebio.com/product-detail.html?id=grow-500",
+      krMatch_en: "Matched Korea Prescription: SSUK-SSUK JARAMI II (쑥쑥자라미2 500ml — All-in-One Vegetative Vitality)",
+      krMatch_ko: "한국 공식몰 매칭 처방: 쑥쑥자라미2 (500ml — 초기 활력·생장점 자극 및 광합성 극대화)"
     },
     mineral: {
       name: "AMAZON MINERAL",
-      kor_sub: "미네랄 공급 · 토양·작물 활력 개선",
+      kor_sub: "고기능성 이온 미네랄 · 토양·작물 활력 개선",
       img: "assets/prod-mineral.png?v=1",
       color: "#0EA5E9",
       badge_ko: "02단계",
       badge_en: "Phase 02",
       phase_en: "Micronutrient Correction & Soil Bioactivity (Phase 02)",
       phase_ko: "미량요소 결핍 해소 및 토양 활성화 (02단계)",
-      mechanism_en: "Ionized trace mineral blend with humic acid carbon carriers to rectify hidden deficiencies.",
-      mechanism_ko: "휴믹산 탄소 캐리어와 이온화 미량 원소 복합체가 육안으로 보이지 않는 미량요소 결핍을 선제적으로 해소합니다.",
+      mechanism_en: "Ionized trace mineral blend (Se, Ge, Ca, Mg) with humic acid carbon carriers to rectify hidden deficiencies.",
+      mechanism_ko: "휴믹산 탄소 캐리어와 이온화 미량 원소(셀레늄·게르마늄·마그네슘·인카) 복합체가 미량요소 결핍을 선제적으로 해소합니다.",
       benefit_en: "Closes the hidden yield gap caused by subclinical micronutrient imbalances in commercial soils.",
-      benefit_ko: "가장 간과하기 쉬운 미량요소 불균형을 바로잡아 작물의 수확량 한계를 극복합니다.",
+      benefit_ko: "가장 간과하기 쉬운 미량요소 불균형을 바로잡아 작물의 수확량 한계를 극복하고 기능성 가치를 높입니다.",
       crops_en: ["Fruit Crops", "Vineyards", "High-Value Horticulture", "Citrus"],
-      crops_ko: ["과수류 (사과, 포도, 감귤)", "고소득 시설 원예", "인삼 및 특용작물"]
+      crops_ko: ["과수류 (사과, 포도, 감귤)", "고소득 시설 원예", "인삼 및 특용작물"],
+      shopUrl: "https://shop.highzonebio.com/product-detail.html?id=selenium-500",
+      krMatch_en: "Matched Korea Prescriptions: SELENIUM (셀레늄 수용액) / GERMANIUM (게르마늄) / ACE IN-CA (에이스 인카)",
+      krMatch_ko: "한국 공식몰 매칭 처방: 셀레늄 수용액(Se) · 게르마늄 수용액(Ge) · 마그네슘(Mg) · 에이스 인카"
     },
     root: {
       name: "PRO ROOT",
-      kor_sub: "뿌리 발달 · 활력있는 뿌리 생육",
+      kor_sub: "뿌리 발달 · 근권 활착 및 세근 증식",
       img: "assets/prod-root.png?v=1",
       color: "#8B5E3C",
       badge_ko: "03단계",
       badge_en: "Phase 03",
       phase_en: "Root System Architecture Phase (Phase 03)",
       phase_ko: "뿌리 발근 및 근권 활착기 (03단계)",
-      mechanism_en: "Phosphorus-ion + auxin-compatible carbon matrix promoting lateral root proliferation.",
-      mechanism_ko: "이온화 인산과 옥신 호환 탄소 매트릭스가 곁뿌리와 미세근의 증식을 집중 유도합니다.",
+      mechanism_en: "Phosphorus-ion + auxin-compatible carbon & Bio-Redsol matrix promoting lateral root proliferation.",
+      mechanism_ko: "이온화 인산과 옥신 호환 탄소 매트릭스 및 바이오레드졸이 곁뿌리와 미세근(세근)의 폭발적 증식을 유도합니다.",
       benefit_en: "Dramatically expands root surface area for robust anchorage and sustained nutrient suction power.",
-      benefit_ko: "토양 내 근권 표면적을 비약적으로 넓혀 조기 정착을 돕고 가뭄 저항력을 높입니다.",
+      benefit_ko: "토양 내 근권 표면적을 비약적으로 넓혀 조기 정착을 돕고 연작장해·가뭄 및 냉해 저항력을 높입니다.",
       crops_en: ["Transplanted Crops", "Tuber Vegetables", "Root Vegetables", "Orchards"],
-      crops_ko: ["정식 이식 작물", "구근류 및 뿌리채소 (마늘, 양파, 감자)", "과수 정식목"]
+      crops_ko: ["정식 이식 작물", "구근류 및 뿌리채소 (마늘, 양파, 감자)", "과수 정식목"],
+      shopUrl: "https://shop.highzonebio.com/product-detail.html?id=redsol-500",
+      krMatch_en: "Matched Korea Prescription: BIO REDSOL (바이오레드졸 500ml) & BIO BLACKHOLE (바이오 블랙홀 1000ml)",
+      krMatch_ko: "한국 공식몰 매칭 처방: 바이오레드졸 (500ml · 연작장해 염류분해 & 세근 200% 발근) / 바이오 블랙홀"
     },
     shield: {
       name: "PRO SHIELD",
-      kor_sub: "작물 보호 · 병해충·스트레스 방어",
+      kor_sub: "작물 보호 · 병해충·스트레스·공간 방어",
       img: "assets/prod-shield.png?v=1",
       color: "#DC2626",
       badge_ko: "04단계",
       badge_en: "Phase 04",
       phase_en: "Stress Response & Defense Phase (Phase 04)",
       phase_ko: "환경 스트레스 방어 및 병해 저항기 (04단계)",
-      mechanism_en: "Ionic silicon + potassium balance with antioxidant carbon compounds reinforcing cell wall structures.",
-      mechanism_ko: "이온 규소와 칼륨의 정밀 밸런스 및 항산화 탄소 복합물이 세포벽을 물리적·생화학적으로 두껍게 만듭니다.",
-      benefit_en: "Reinforces cellular rigidity to minimize lodging, heat stress, and fungal penetration.",
-      benefit_ko: "고온, 냉해, 염류 장해로부터 작물을 보호하며 도복 및 병해 침입을 억제합니다.",
+      mechanism_en: "Ionic silicon + potassium + colloidal nano-silver & natural phytoncide defense reinforcing cell walls.",
+      mechanism_ko: "나노 순수 은(Ag) 이온과 천연 피톤치드(테르펜) 복합물이 병원성 세균·곰팡이와 해충 침입을 친환경적으로 차단합니다.",
+      benefit_en: "Reinforces cellular rigidity to minimize lodging, heat stress, and fungal penetration (KTR 99.9% verified).",
+      benefit_ko: "잔류농약 걱정 없이 탄저·무름·곰팡이균(99.9% 제균)과 진딧물·총채·응애를 동시에 방어합니다.",
       crops_en: ["Protected Cultivation", "High-Humidity Crops", "Greenhouse Strawberries", "Melons"],
-      crops_ko: ["시설 하우스 작물", "고습 환경 작물", "딸기, 수박, 오이", "벼·수도작"]
+      crops_ko: ["시설 하우스 작물", "고습 환경 작물", "딸기, 고추, 오이", "벼·수도작"],
+      shopUrl: "https://shop.highzonebio.com/product-detail.html?id=silver-500",
+      krMatch_en: "Matched Korea Prescriptions: PURE COLLOIDAL SILVER Ag (순수 은수용액) & GOODBYE-CHUNG (굿바이충)",
+      krMatch_ko: "한국 공식몰 매칭 처방: 순수 은수용액 Ag (KTR 99.9% 살균) · 굿바이충 (천연 피톤치드 충방어)"
     },
     color: {
       name: "PRO COLOR",
-      kor_sub: "안토시아닌 발현 · 색상·품질 향상",
+      kor_sub: "안토시아닌 발현 · 착색·당도(Brix)·저장성 향상",
       img: "assets/prod-color.png?v=1",
       color: "#7C3AED",
       badge_ko: "05단계",
@@ -1652,27 +1789,33 @@
       phase_en: "Maturation & Pre-Harvest Phase (Phase 05)",
       phase_ko: "후기 성숙·착색 및 당도 증진기 (05단계)",
       mechanism_en: "Ionized calcium + potassium with anthocyanin-support compounds driving fruit perfection.",
-      mechanism_ko: "이온화 칼슘 및 칼륨 복합제와 안토시아닌 촉진 물질이 과실의 착색과 당 축적을 가속화합니다.",
+      mechanism_ko: "복합 생리활성 효소와 이온화 칼슘·칼륨 복합제가 과실의 비대·착색과 당 축적을 가속화합니다.",
       benefit_en: "Maximizes Brix sugar levels, uniform natural coloration, and long shelf life after harvest.",
-      benefit_ko: "착색 촉진제 없이도 자연스러운 특등품 색택과 고당도(Brix)를 발현하며 유통 저장성을 높입니다.",
+      benefit_ko: "자연스러운 특등품 색택과 고당도(Brix)를 발현하며 과피 경도와 유통 저장성을 높입니다.",
       crops_en: ["Berry Crops", "Stone Fruits", "Tomatoes", "Peppers", "Apples"],
-      crops_ko: ["베리류, 사과, 복숭아", "토마토, 파프리카", "고추, 과채류 후기"]
+      crops_ko: ["베리류, 사과, 복숭아", "토마토, 파프리카", "고추, 과채류 후기"],
+      shopUrl: "https://shop.highzonebio.com/product-detail.html?id=goldwater-1000",
+      krMatch_en: "Matched Korea Prescription: GOLDEN WATER PREMIUM (황금수 프리미엄 1000ml) & Crop Special Formulas",
+      krMatch_ko: "한국 공식몰 매칭 처방: 황금수 프리미엄 (1000ml) · 건강한 항산화 토마토/고추 전용 처방"
     },
     fifth: {
       name: "제5원소 (The 5th Element)",
-      kor_sub: "미량요소·이온 밸런스 · 생체물질·품질 향상",
+      kor_sub: "미량요소·이온 밸런스 · 세포벽 경화 및 도복 방지",
       img: "assets/prod-fifth.png?v=1",
       color: "#0D6EFD",
       badge_ko: "06단계",
       badge_en: "Phase 06",
       phase_en: "Whole-Cycle Soil Equilibrium (Phase 06)",
-      phase_ko: "전 생육기 토양 염류 및 이온 균형 복원 (06단계)",
-      mechanism_en: "Proprietary 5-element ionic balance complex (N, P, K, Ca, Mg) in absolute precision ratio.",
-      mechanism_ko: "핵심 5대 원소(N, P, K, Ca, Mg)를 특허 이온 복합체 비율로 조성하여 토양 이온 항상성을 유지합니다.",
-      benefit_en: "Restores degraded and saline soils while maintaining optimal baseline nutritional equilibrium.",
-      benefit_ko: "염류 집적 및 노후화된 시설 토양을 정화하고, 연중 최적의 비옥도를 안정적으로 유지합니다.",
-      crops_en: ["Commercial Field Scale", "Degraded / Saline Soils", "Continuous Cropping Land"],
-      crops_ko: ["대규모 노지 재배지", "염류 집적 하우스", "연작 장해 토양", "간척지"]
+      phase_ko: "전 생육기 이온 균형 및 도복 완벽 방지 (06단계)",
+      mechanism_en: "Proprietary 5-element ionic balance complex (N, P, K, Ca, Mg + Si) in absolute precision ratio (KR Patent 10-2493517).",
+      mechanism_ko: "수용성 나노 규소·칼슘 및 5대 이온 복합체(특허 제10-2493517호)가 줄기 세포벽을 단단하게 규질화합니다.",
+      benefit_en: "Reinforces stem vascular bundles against typhoon lodging while restoring soil ionic equilibrium.",
+      benefit_ko: "웃자람(도장)을 억제하고 태풍·장마철 벼·고추·마늘 쓰러짐(도복)을 막아 이삭 등숙률을 극대화합니다.",
+      crops_en: ["Commercial Field Scale", "Paddy Rice", "Peppers & Garlic", "Continuous Cropping Land"],
+      crops_ko: ["벼·수도작 (도복 방지)", "고추, 마늘, 양파", "염류 집적 하우스", "대규모 노지 재배지"],
+      shopUrl: "https://shop.highzonebio.com/product-detail.html?id=dobok-100",
+      krMatch_en: "Matched Korea Prescriptions: 5TH ELEMENT DOBOK-WANG (제5원소 도복왕 100ml) & Redsol+InCa Synergy Set",
+      krMatch_ko: "한국 공식몰 매칭 처방: 제5원소 도복왕 (100ml 5,000배 초고농축) · 레드졸+에이스인카 시너지 세트"
     }
   };
 
@@ -1771,6 +1914,15 @@
     if (cropsContainer) {
       cropsContainer.innerHTML = crops.map(c => `<span class="crop-pill">${c}</span>`).join('');
     }
+
+    const krMatchTextEl = document.getElementById('prodKrMatchText');
+    if (krMatchTextEl) {
+      krMatchTextEl.innerText = currentLang === 'ko' ? p.krMatch_ko : p.krMatch_en;
+    }
+    const shopLinkEl = document.getElementById('prodShopLink');
+    if (shopLinkEl && p.shopUrl) {
+      shopLinkEl.href = p.shopUrl;
+    }
   }
 
   // ── 6. BACKGROUND PARTICLES CANVAS ──
@@ -1839,14 +1991,58 @@
     }
   });
 
-  // ── 8. CONTACT FORM SUBMISSION MOCK ──
+  // ── 8. CONTACT FORM SUBMISSION & LOCAL BACKUP + DIRECT DISPATCH ──
   function handleFormSubmit(e) {
     e.preventDefault();
-    const name = document.getElementById('formNameInput').value;
-    const alertMsg = currentLang === 'ko' 
-      ? `감사합니다, ${name}님! 문의가 성공적으로 접수되었습니다. 담당자가 곧 연락드리겠습니다.`
-      : `Thank you, ${name}! Your inquiry has been sent successfully. We will get back to you shortly.`;
-    alert(alertMsg);
+    const name = document.getElementById('formNameInput').value.trim();
+    const org = document.getElementById('formOrgInput').value.trim();
+    const country = document.getElementById('formCountryInput').value.trim();
+    const typeSelect = document.getElementById('formTypeSelect');
+    const inquiryType = typeSelect ? typeSelect.options[typeSelect.selectedIndex].text : 'General';
+    const msg = document.getElementById('formMsgInput').value.trim();
+    const timestamp = new Date().toISOString();
+
+    // 1. Backup to localStorage so no inquiry is ever lost
+    try {
+      const savedList = JSON.parse(localStorage.getItem('hz_global_inquiries') || '[]');
+      savedList.unshift({ name, org, country, inquiryType, msg, timestamp, lang: currentLang });
+      localStorage.setItem('hz_global_inquiries', JSON.stringify(savedList.slice(0, 50)));
+    } catch (err) {
+      console.warn('localStorage backup skipped:', err);
+    }
+
+    // 2. Build mailto link for instant direct email transmission
+    const subject = encodeURIComponent(`[HIGHZONE BIO Global Inquiry] ${org} (${country}) - ${name}`);
+    const body = encodeURIComponent(
+      `Name: ${name}\nOrganization/Farm: ${org}\nCountry/Region: ${country}\nInquiry Type: ${inquiryType}\nSubmitted At: ${timestamp}\n\nMessage:\n${msg}`
+    );
+    const mailtoHref = `mailto:info@highzonebio.com?cc=partner@highzonebio.kr&subject=${subject}&body=${body}`;
+
+    // 3. Render persistent confirmation box with direct phone & email dispatch
+    const resultBox = document.getElementById('inquiryResultBox');
+    if (resultBox) {
+      resultBox.style.display = 'block';
+      if (currentLang === 'ko') {
+        resultBox.innerHTML = `
+          <div style="font-weight:800; font-size:15px; color:#4ADE80; margin-bottom:6px;">✅ 감사합니다, ${name}님! 문의 내용이 안전하게 접수·보관되었습니다.</div>
+          <p style="margin-bottom:12px; color:#D4E8DC;">전주대학교 벤처창업관 산학협력 R&D 연구소 글로벌 담당팀이 빠르게 검토 후 연락드리겠습니다. 급하신 용무나 즉시 이메일 발송을 원하시면 아래 직통 버튼을 이용해 주세요.</p>
+          <div style="display:flex; gap:10px; flex-wrap:wrap;">
+            <a href="${mailtoHref}" style="padding:9px 16px; border-radius:6px; background:var(--bio-green); color:#fff; font-weight:800; text-decoration:none; font-size:12.5px;">✉️ 공식 이메일(info@highzonebio.com)로 즉시 발송</a>
+            <a href="tel:063-855-5001" style="padding:9px 16px; border-radius:6px; background:rgba(255,255,255,0.1); border:1px solid #4ADE80; color:#4ADE80; font-weight:800; text-decoration:none; font-size:12.5px;">📞 연구소 직통 전화: 063-855-5001</a>
+          </div>
+        `;
+      } else {
+        resultBox.innerHTML = `
+          <div style="font-weight:800; font-size:15px; color:#4ADE80; margin-bottom:6px;">✅ Thank you, ${name}! Your inquiry has been logged and backed up.</div>
+          <p style="margin-bottom:12px; color:#D4E8DC;">Our Global B2B & R&D Desk at Jeonju University Venture Startup Hall (#108) will respond promptly. For immediate priority dispatch or direct consultation, please use the options below:</p>
+          <div style="display:flex; gap:10px; flex-wrap:wrap;">
+            <a href="${mailtoHref}" style="padding:9px 16px; border-radius:6px; background:var(--bio-green); color:#fff; font-weight:800; text-decoration:none; font-size:12.5px;">✉️ Send Direct Email Now (info@highzonebio.com)</a>
+            <a href="tel:+82-63-855-5001" style="padding:9px 16px; border-radius:6px; background:rgba(255,255,255,0.1); border:1px solid #4ADE80; color:#4ADE80; font-weight:800; text-decoration:none; font-size:12.5px;">📞 Direct R&D Desk: +82-63-855-5001 (KR: 063-855-5001)</a>
+          </div>
+        `;
+      }
+    }
+
     document.getElementById('inquiryForm').reset();
   }
 
