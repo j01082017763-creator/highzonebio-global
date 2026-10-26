@@ -7,14 +7,17 @@
 ---
 
 ## 1. Company Overview (기업 개요)
-- **Company Name**: HIGHZONE BIO Inc. (주식회사 하이존바이오)
+- **Company Name**: HIGHZONE BIO Co., Ltd. (유한회사 하이존바이오)
+- **CEO (대표이사)**: Deok-Su Kim (김덕수)
+- **Business Registration No. (사업자등록번호)**: `707-81-02864` (Corporate Reg. No.: `210114-0163746`)
+- **Venture Enterprise & Research Institute Status**: Venture Enterprise Cert. `No. 20230503030103` (Innovative Growth Type) · Ministry of Science & ICT Certified Jeonju University Research Institute Company (전주대학교 자회사·연구소기업)
 - **Core Identity**: Agricultural & Environmental Bio-Technology Leader combining **Carbon Material Engineering**, **Precision Ion Delivery Technology**, **100% Natural Gas-Phase Sterilization (ABASPO)**, and **AI Plant Clinic Diagnostics**.
 - **R&D Center & Headquarters**:
   - **English**: Industry-Academia Cooperation R&D Center, #108, Venture Startup Hall, Jeonju University, 303 Cheonjam-ro, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea
-  - **Korean**: 전주대학교 벤처창업관 산학협력 R&D 연구소 (전북특별자치도 전주시 완산구 천잠로 303 전주대학교 벤처창업관 108호)
+  - **Korean**: 전주대학교 벤처창업관 산학협력 R&D 연구소 (전북특별자치도 전주시 완산구 천잠로 303, 1층 108호)
 - **Official Telephone**: `+82-63-855-5001` (Domestic Korea: `063-855-5001`)
 - **Official Email**: `info@highzonebio.com` / `partner@highzonebio.kr`
-- **Core Patent**: **KR Patent No. 10-2493517** (대한민국 특허 제10-2493517호 — *Ionized Carbon Carrier & Chelated Mineral Complex for High-Bioavailability Plant Nutrition and Soil Restoration*)
+- **Core Patent & Organic Input Cert**: **KR Patent No. 10-2493517** (대한민국 특허 제10-2493517호) · **Organic Agricultural Input Registration No. 공시-2-6-131** (병해충관리용 유기농업자재) · **RDA Patented Antioxidant Tomato/Pepper Technology**
 
 ---
 
