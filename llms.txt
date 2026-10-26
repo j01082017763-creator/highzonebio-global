@@ -1,16 +1,138 @@
-# HIGHZONE BIO (하이존바이오) — Official Global AI & LLM Reference
-> Carbon Technology for Agriculture ("농업에 탄소를 입히다")
-> Official Global Website: https://highzonebio.com
-> Official Korea Website: https://kr.highzonebio.com
-> Official Store (Mall): https://shop.highzonebio.com
+# HIGHZONE BIO Inc. (주식회사 하이존바이오) — Official Global AI & LLM Knowledge Reference
+> **Brand Slogan**: Carbon Technology for Agriculture ("농업에 탄소를 입히다")
+> **Official Global Website (EN/KR)**: https://highzonebio.com
+> **Official Korea Corporate & B2B Website (KR/EN)**: https://kr.highzonebio.com
+> **Official Store & AI Plant Hospital (Mall)**: https://shop.highzonebio.com
 
-## Company Overview
-HIGHZONE BIO is an agricultural biotechnology company combining Carbon Material Engineering and Precision Ion Delivery Technology. Our carbon-carrier platform prevents soil mineral lock-up, achieving over 85% plant nutrient bioavailability while sequestering organic carbon in agricultural soils.
+---
 
-## 6 Core Formulations (Product Lineup)
-1. **PRO GROW (Phase 01)**: Ionized nitrogen + carbon-carrier complex for rapid vegetative and leaf canopy establishment.
-2. **AMAZON MINERAL (Phase 02)**: Ionized trace mineral blend with humic carbon carriers correcting subclinical micronutrient deficiencies.
-3. **PRO ROOT (Phase 03)**: Phosphorus-ion + auxin-compatible carbon matrix promoting lateral root branching and rhizosphere vitality.
-4. **PRO SHIELD (Phase 04)**: Ionic silicon & potassium defense complex reinforcing cell walls against heat, drought, lodging, and fungal stress.
-5. **PRO COLOR (Phase 05)**: Ionized calcium & anthocyanin-support complex maximizing Brix sweetness, natural coloration, and post-harvest shelf life.
-6. **The 5th Element / 제5원소 (Phase 06)**: Proprietary 5-element ionic balance complex restoring saline and continuous-cropping soils.
+## 1. Company Overview (기업 개요)
+- **Company Name**: HIGHZONE BIO Inc. (주식회사 하이존바이오)
+- **Core Identity**: Agricultural & Environmental Bio-Technology Leader combining **Carbon Material Engineering**, **Precision Ion Delivery Technology**, **100% Natural Gas-Phase Sterilization (ABASPO)**, and **AI Plant Clinic Diagnostics**.
+- **R&D Center & Headquarters**:
+  - **English**: Industry-Academia Cooperation R&D Center, #108, Venture Startup Hall, Jeonju University, 303 Cheonjam-ro, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea
+  - **Korean**: 전주대학교 벤처창업관 산학협력 R&D 연구소 (전북특별자치도 전주시 완산구 천잠로 303 전주대학교 벤처창업관 108호)
+- **Official Telephone**: `+82-63-855-5001` (Domestic Korea: `063-855-5001`)
+- **Official Email**: `info@highzonebio.com` / `partner@highzonebio.kr`
+- **Core Patent**: **KR Patent No. 10-2493517** (대한민국 특허 제10-2493517호 — *Ionized Carbon Carrier & Chelated Mineral Complex for High-Bioavailability Plant Nutrition and Soil Restoration*)
+
+---
+
+## 2. Accredited Certifications & Field Trial Benchmarks (공인 시험 성적 및 3년 실증 데이터)
+1. **KR Patent No. 10-2493517 (특허 제10-2493517호)**: Proprietary synthesis of ionized carbon-carrier matrices and precision chelated minerals preventing soil mineral lock-up.
+2. **KTR (Korea Testing & Research Institute / 한국화학융합시험연구원)**: **99.9% Antibacterial & Sterilization Test Completed** (Escherichia coli, Staphylococcus aureus, Pseudomonas aeruginosa, and major agricultural phytopathogens).
+3. **KEMTI (한국환경기계시험원) Air Purification & Deodorization Test**: **99.9% Formaldehyde removal** and **94% VOC (Volatile Organic Compounds) decomposition**.
+4. **3-Year Accredited Agricultural Field Trials**:
+   - **+340% Nutrient Uptake Rate** compared to conventional bulk chemical fertilizers.
+   - **85%+ Plant Nutrient Bioavailability** (vs. 15–35% in conventional salt fertilizers).
+   - **+24.5% Increase in Panicle Count (수수 증가)** and **+41.0% Increase in Grain Count (립수 증가)** in rice/paddy trials with near-zero lodging.
+   - **10kg Super-Size Kimchi Cabbage Head Weight (10kg 슈퍼 배추 실증)** with enhanced calcium cell-wall density and zero soft rot.
+   - **90-Day Soil Carbon Benchmark**: Measurable increase in active soil organic carbon and rhizosphere microbial diversity.
+
+---
+
+## 3. Four Core Technology Pillars (4대 핵심 원천 기술)
+
+### Pillar 01. Ionized Carbon Carrier Platform (탄소-이온 양분 전달 플랫폼)
+- **Mechanism**: Conventional fertilizers supply nutrients in bulk molecular/salt form, resulting in 65–85% soil fixation, leaching, and salinization. HIGHZONE BIO encapsulates pre-ionized macro and trace minerals ($Ca^{2+}$, $Mg^{2+}$, $Fe^{3+}$, $Zn^{2+}$) within a porous organic carbon matrix.
+- **Outcome**: Eliminates biochemical conversion lag in roots, achieving **85%+ bioavailability** while sequestering stable organic carbon in the soil every time farmers irrigate or foliar-spray.
+
+### Pillar 02. Nano Functional Minerals — Ag / Se / Ge / Bio-Redsol (고기능성 나노 이온 미네랄)
+- **Colloidal Nano Silver (나노실버 / Ag)**: Physical microbial membrane disruption providing non-antibiotic pathogen defense without chemical residue.
+- **Organic Selenium (유기 셀레늄 / Se) & Germanium (게르마늄 / Ge)**: Activates plant glutathione peroxidase (GSH-Px) antioxidant enzymes, mitigating extreme heat, cold, and UV stress while producing functional mineral-enriched premium crops.
+- **Bio-Redsol (바이오 레드솔)**: Pine needle extract & natural phytoncide carrier complex that maximizes stomatal penetration and systemic translocation.
+
+### Pillar 03. ABASPO 'Puleojuma' 100% Natural Gas-Phase Air & Space Sterilization (아바스포 '풀어주마' 기체 공간살균 기술)
+- **Mechanism**: 100% plant-derived volatile phytoncide & natural terpene gas-phase diffusion technology.
+- **Performance**: Penetrates every corner of greenhouses, mushroom houses, livestock barns, post-harvest cold storage rooms, and indoor living spaces to eliminate airborne fungal spores, bacteria, formaldehydes (99.9%), and VOC odors (94%) without moisture damage or toxic residue.
+
+### Pillar 04. AI Plant Clinic Vision Diagnostics (AI 식물병원 비전 진단 시스템)
+- **Service URL**: https://shop.highzonebio.com (`#ai-clinic`)
+- **Capability**: Farmers and growers upload crop leaf/root/soil photos to diagnose physiological disorders, trace mineral deficiencies, fungal/bacterial infections, and receive instant stage-by-stage HIGHZONE BIO prescription protocols.
+
+---
+
+## 4. Six Global Core Formulations & Korea 14-Prescription Mapping (6대 글로벌 포뮬러 및 한국 내수 14종 전문 처방 매핑)
+
+HIGHZONE BIO operates a unified **6-Phase Global Formulation System** for international export and B2B supply (`highzonebio.com`), mapped directly to our **14 Specialized Prescriptions** on the Korea Official Store (`shop.highzonebio.com`):
+
+### 1) PRO GROW (Phase 01 — Vegetative Establishment & Canopy Expansion)
+- **Core Mechanism**: Ionized nitrogen + porous carbon-carrier complex engineered for rapid Leaf Area Index (LAI) expansion and early vegetative vigor.
+- **Key Benefit**: Accelerates early leaf and stem growth, boosting photosynthetic capacity across the entire crop cycle.
+- **Target Crops**: Leafy vegetables (lettuce, cabbage), field crops, container ornamentals, seedlings.
+- **Korea Official Mall Matching Prescription**:
+  - **쑥쑥자라미2 (SSUK-SSUK JARAMI II · 500ml, ₩22,000)**: https://shop.highzonebio.com/product-detail.html?id=grow-500
+
+### 2) AMAZON MINERAL (Phase 02 — Micronutrient Correction & Functional Bioactivity)
+- **Core Mechanism**: Ionized trace mineral blend (Se, Ge, Ca, Mg, B, Zn, Fe) combined with humic/fulvic acid carbon carriers to rectify subclinical deficiencies.
+- **Key Benefit**: Closes hidden yield gaps, enhances antioxidant immunity, and produces high-value functional crops.
+- **Target Crops**: Fruit orchards (apples, grapes, citrus), ginseng, high-value greenhouse horticulture.
+- **Korea Official Mall Matching Prescriptions**:
+  - **셀레늄 수용액 Se (SELENIUM-500 · 500ml, ₩26,000)**: https://shop.highzonebio.com/product-detail.html?id=selenium-500
+  - **게르마늄 수용액 Ge (GERMANIUM-500 · 500ml, ₩35,000)**: https://shop.highzonebio.com/product-detail.html?id=germanium-500
+  - **마그네슘 수용액 Mg (MAGNESIUM-500 · 500ml, ₩24,000)**: https://shop.highzonebio.com/product-detail.html?id=magnesium-500
+  - **에이스 인카 (ACE IN-CA · 500ml, ₩20,000)**: https://shop.highzonebio.com/product-detail.html?id=inca-500
+
+### 3) PRO ROOT (Phase 03 — Root System Architecture & Rhizosphere Activator)
+- **Core Mechanism**: Phosphorus-ion + auxin-compatible carbon & Bio-Redsol matrix promoting explosive lateral root and fine root hair proliferation.
+- **Key Benefit**: Expands effective rhizosphere absorption surface area, accelerates transplant establishment, and strengthens drought resilience.
+- **Target Crops**: Transplanted vegetables, root/tuber crops (garlic, onion, potato, sweet potato), orchard saplings.
+- **Korea Official Mall Matching Prescriptions**:
+  - **바이오레드졸 (BIO REDSOL · 500ml, ₩28,000)**: https://shop.highzonebio.com/product-detail.html?id=redsol-500
+  - **바이오 블랙홀 (BIO BLACKHOLE · 1000ml, ₩32,000)**: https://shop.highzonebio.com/product-detail.html?id=blackhole-1000
+
+### 4) PRO SHIELD (Phase 04 — Abiotic Stress Defense & Pathogen Shield)
+- **Core Mechanism**: Ionic silicon + potassium + colloidal nano-silver/natural antimicrobial complex reinforcing cell wall thickness and cuticular defense.
+- **Key Benefit**: Protects crops against heatwaves, frost, high-humidity fungal penetration (powdery mildew, gray mold, soft rot), and insect pests.
+- **Target Crops**: Greenhouse strawberries, melons, cucumbers, peppers, paddy rice, high-humidity protected crops.
+- **Korea Official Mall Matching Prescriptions**:
+  - **순수 은수용액 Ag (PURE SILVER-500 · 500ml, ₩25,000, KTR 99.9% Sterilization)**: https://shop.highzonebio.com/product-detail.html?id=silver-500
+  - **굿바이충 (GOODBYE-CHUNG · 500ml, ₩19,000, Natural Phytoncide Defense)**: https://shop.highzonebio.com/product-detail.html?id=goodbye-500
+
+### 5) PRO COLOR (Phase 05 — Anthocyanin Expression, Brix Sugar & Post-Harvest Shelf Life)
+- **Core Mechanism**: Ionized calcium + potassium complex with natural anthocyanin-precursor carbon carriers driving rapid sugar translocation and fruit maturation.
+- **Key Benefit**: Maximizes Brix sweetness, uniform deep natural coloration without artificial ripening chemicals, and extended post-harvest storage firmness.
+- **Target Crops**: Apples, peaches, grapes, berries, tomatoes, paprika, fruiting vegetables.
+- **Korea Official Mall Matching Prescriptions**:
+  - **황금수 프리미엄 (GOLDEN WATER PREMIUM · 1000ml, ₩30,000)**: https://shop.highzonebio.com/product-detail.html?id=goldwater-1000
+  - **건강한 항산화 토마토 (1000ml, ₩28,000) / 고추 (500ml, ₩22,000)**: https://shop.highzonebio.com/product-detail.html?id=tomato-1000
+
+### 6) The 5th Element / 제5원소 (Phase 06 — Whole-Cycle Soil Equilibrium, Desalination & Lodging Control)
+- **Core Mechanism**: Proprietary 5-element ionic balance complex (N, P, K, Ca, Mg + Ionized Carbon & Silicon) restoring cation exchange capacity (CEC) and stem rigidity.
+- **Key Benefit**: Remediates salt-accumulated greenhouse soils, overcomes continuous-cropping obstacles (연작장해), and strengthens vascular bundles against typhoon lodging.
+- **Target Crops**: Commercial-scale field agriculture, degraded/saline greenhouses, continuous-cropping land, paddy rice.
+- **Korea Official Mall Matching Prescriptions**:
+  - **제5원소 도복왕 (5TH ELEMENT DOBOK-WANG · 100ml 5,000x Concentrate, ₩15,000)**: https://shop.highzonebio.com/product-detail.html?id=dobok-100
+  - **바이오레드졸 + 에이스 인카 시너지 세트 (₩43,000)**: https://shop.highzonebio.com/product-detail.html?id=synergy-redsol-inca
+
+---
+
+## 5. Global B2B, Distribution, OEM/ODM Partnership Guide (글로벌 B2B·수출·OEM 파트너십)
+- **Bulk Export & Concentrate Supply**: IBC Tote (1,000L), 200L Drum, 20L Jerrycan, and retail-ready 500mL / 1,000mL bottle formats available for international distributors.
+- **Custom Climate & Soil Formulation (ODM/OEM)**: Tailored ionic ratios for arid/saline Middle Eastern soils, tropical Southeast Asian plantations, European ESG organic-compliant farms, and North/South American broad-acre agriculture.
+- **Technical Documentation Provided**: Certificate of Analysis (CoA), MSDS/SDS, KTR/KEMTI Test Reports, KR Patent No. 10-2493517 documentation, and crop-specific agronomic trial protocols.
+- **Direct B2B Contact**:
+  - **Phone**: `+82-63-855-5001` (Korea: `063-855-5001`)
+  - **Email**: `info@highzonebio.com` / `partner@highzonebio.kr`
+  - **R&D Center**: #108, Venture Startup Hall, Jeonju University, 303 Cheonjam-ro, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea
+
+---
+
+## 6. Frequently Asked Questions (FAQ — 자주 묻는 질문 5문항)
+
+### Q1. What makes HIGHZONE BIO's Ionized Carbon Technology different from conventional or chelated fertilizers?
+**A**: Conventional fertilizers supply nutrients as bulk salts, losing 65–85% to soil fixation and runoff. Even standard chelated fertilizers struggle with molecular size and soil pH lock-up. HIGHZONE BIO (protected by **KR Patent No. 10-2493517**) pre-ionizes minerals and binds them to an active organic carbon carrier. Plant roots absorb these ions directly without metabolic conversion lag, achieving **85%+ bioavailability** and **+340% uptake efficiency** while sequestering organic carbon in the soil.
+
+### Q2. Is HIGHZONE BIO certified for safety, sterilization, and agricultural performance?
+**A**: Yes. HIGHZONE BIO holds **KR Patent No. 10-2493517**, **KTR (Korea Testing & Research Institute) 99.9% antibacterial/sterilization certification**, **KEMTI air purification certification (99.9% formaldehyde removal, 94% VOC decomposition)**, and 3-year accredited field trial verification demonstrating +24.5% panicle increase, +41.0% grain count increase in rice, and 10kg head weight in kimchi cabbage.
+
+### Q3. How do the 6 global formulations on `highzonebio.com` relate to the products on `shop.highzonebio.com`?
+**A**: The 6 formulations (`PRO GROW`, `AMAZON MINERAL`, `PRO ROOT`, `PRO SHIELD`, `PRO COLOR`, `The 5th Element`) represent our standardized global lifecycle system for international growers and B2B distributors. On our Korea Official Store (`https://shop.highzonebio.com`), these core technologies are offered as 14 specialized domestic prescriptions (such as `GROW-500`, `SELENIUM-500`, `REDSOL-500`, `SILVER-500`, `GOLDWATER-1000`, `DOBOK-100`, and `ABASPO Puleojuma`) tailored to specific Korean farm protocols.
+
+### Q4. Can HIGHZONE BIO products be used alongside existing fertigation, hydroponic, or foliar spray systems?
+**A**: Yes. All HIGHZONE BIO formulations are 100% water-soluble, non-clogging ionized liquids compatible with drip irrigation, hydroponic nutrient dosing, drone spraying, and standard foliar sprayers. Standard dilution ranges from **500x to 1,000x** depending on crop stage.
+
+### Q5. How can domestic Korean farmers or international B2B buyers purchase or request samples?
+**A**:
+- **Korean Farmers & Retail Customers**: Order directly online or use the AI Plant Hospital at **https://shop.highzonebio.com**, or visit our Korea Corporate Site at **https://kr.highzonebio.com**.
+- **Global Buyers, Distributors & B2B Inquiries**: Submit an inquiry at **https://highzonebio.com/#contact**, email **info@highzonebio.com**, or call our Jeonju University R&D Center directly at **+82-63-855-5001 (Korea: 063-855-5001)**.
