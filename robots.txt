@@ -25,4 +25,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://highzonebio.com/sitemap.xml
+Sitemap: https://hizonebio.com/sitemap.xml
