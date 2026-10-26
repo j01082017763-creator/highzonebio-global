@@ -1,8 +1,8 @@
 # HIGHZONE BIO Inc. (주식회사 하이존바이오) — Official Global AI & LLM Knowledge Reference
 > **Brand Slogan**: Carbon Technology for Agriculture ("농업에 탄소를 입히다")
-> **Official Global Website (EN/KR)**: https://highzonebio.com
-> **Official Korea Corporate & B2B Website (KR/EN)**: https://kr.highzonebio.com
-> **Official Store & AI Plant Hospital (Mall)**: https://shop.highzonebio.com
+> **Official Global Website (EN/KR)**: https://hizonebio.com
+> **Official Korea Corporate & B2B Website (KR/EN)**: https://kr.hizonebio.com
+> **Official Store & AI Plant Hospital (Mall)**: https://shop.hizonebio.com
 
 ---
 
@@ -50,63 +50,63 @@
 - **Performance**: Penetrates every corner of greenhouses, mushroom houses, livestock barns, post-harvest cold storage rooms, and indoor living spaces to eliminate airborne fungal spores, bacteria, formaldehydes (99.9%), and VOC odors (94%) without moisture damage or toxic residue.
 
 ### Pillar 04. AI Plant Clinic Vision Diagnostics (AI 식물병원 비전 진단 시스템)
-- **Service URL**: https://shop.highzonebio.com (`#ai-clinic`)
+- **Service URL**: https://shop.hizonebio.com (`#ai-clinic`)
 - **Capability**: Farmers and growers upload crop leaf/root/soil photos to diagnose physiological disorders, trace mineral deficiencies, fungal/bacterial infections, and receive instant stage-by-stage HIGHZONE BIO prescription protocols.
 
 ---
 
 ## 4. Six Global Core Formulations & Korea 14-Prescription Mapping (6대 글로벌 포뮬러 및 한국 내수 14종 전문 처방 매핑)
 
-HIGHZONE BIO operates a unified **6-Phase Global Formulation System** for international export and B2B supply (`highzonebio.com`), mapped directly to our **14 Specialized Prescriptions** on the Korea Official Store (`shop.highzonebio.com`):
+HIGHZONE BIO operates a unified **6-Phase Global Formulation System** for international export and B2B supply (`hizonebio.com`), mapped directly to our **14 Specialized Prescriptions** on the Korea Official Store (`shop.hizonebio.com`):
 
 ### 1) PRO GROW (Phase 01 — Vegetative Establishment & Canopy Expansion)
 - **Core Mechanism**: Ionized nitrogen + porous carbon-carrier complex engineered for rapid Leaf Area Index (LAI) expansion and early vegetative vigor.
 - **Key Benefit**: Accelerates early leaf and stem growth, boosting photosynthetic capacity across the entire crop cycle.
 - **Target Crops**: Leafy vegetables (lettuce, cabbage), field crops, container ornamentals, seedlings.
 - **Korea Official Mall Matching Prescription**:
-  - **쑥쑥자라미2 (SSUK-SSUK JARAMI II · 500ml, ₩22,000)**: https://shop.highzonebio.com/product-detail.html?id=grow-500
+  - **쑥쑥자라미2 (SSUK-SSUK JARAMI II · 500ml, ₩22,000)**: https://shop.hizonebio.com/product-detail.html?id=grow-500
 
 ### 2) AMAZON MINERAL (Phase 02 — Micronutrient Correction & Functional Bioactivity)
 - **Core Mechanism**: Ionized trace mineral blend (Se, Ge, Ca, Mg, B, Zn, Fe) combined with humic/fulvic acid carbon carriers to rectify subclinical deficiencies.
 - **Key Benefit**: Closes hidden yield gaps, enhances antioxidant immunity, and produces high-value functional crops.
 - **Target Crops**: Fruit orchards (apples, grapes, citrus), ginseng, high-value greenhouse horticulture.
 - **Korea Official Mall Matching Prescriptions**:
-  - **셀레늄 수용액 Se (SELENIUM-500 · 500ml, ₩26,000)**: https://shop.highzonebio.com/product-detail.html?id=selenium-500
-  - **게르마늄 수용액 Ge (GERMANIUM-500 · 500ml, ₩35,000)**: https://shop.highzonebio.com/product-detail.html?id=germanium-500
-  - **마그네슘 수용액 Mg (MAGNESIUM-500 · 500ml, ₩24,000)**: https://shop.highzonebio.com/product-detail.html?id=magnesium-500
-  - **에이스 인카 (ACE IN-CA · 500ml, ₩20,000)**: https://shop.highzonebio.com/product-detail.html?id=inca-500
+  - **셀레늄 수용액 Se (SELENIUM-500 · 500ml, ₩26,000)**: https://shop.hizonebio.com/product-detail.html?id=selenium-500
+  - **게르마늄 수용액 Ge (GERMANIUM-500 · 500ml, ₩35,000)**: https://shop.hizonebio.com/product-detail.html?id=germanium-500
+  - **마그네슘 수용액 Mg (MAGNESIUM-500 · 500ml, ₩24,000)**: https://shop.hizonebio.com/product-detail.html?id=magnesium-500
+  - **에이스 인카 (ACE IN-CA · 500ml, ₩20,000)**: https://shop.hizonebio.com/product-detail.html?id=inca-500
 
 ### 3) PRO ROOT (Phase 03 — Root System Architecture & Rhizosphere Activator)
 - **Core Mechanism**: Phosphorus-ion + auxin-compatible carbon & Bio-Redsol matrix promoting explosive lateral root and fine root hair proliferation.
 - **Key Benefit**: Expands effective rhizosphere absorption surface area, accelerates transplant establishment, and strengthens drought resilience.
 - **Target Crops**: Transplanted vegetables, root/tuber crops (garlic, onion, potato, sweet potato), orchard saplings.
 - **Korea Official Mall Matching Prescriptions**:
-  - **바이오레드졸 (BIO REDSOL · 500ml, ₩28,000)**: https://shop.highzonebio.com/product-detail.html?id=redsol-500
-  - **바이오 블랙홀 (BIO BLACKHOLE · 1000ml, ₩32,000)**: https://shop.highzonebio.com/product-detail.html?id=blackhole-1000
+  - **바이오레드졸 (BIO REDSOL · 500ml, ₩28,000)**: https://shop.hizonebio.com/product-detail.html?id=redsol-500
+  - **바이오 블랙홀 (BIO BLACKHOLE · 1000ml, ₩32,000)**: https://shop.hizonebio.com/product-detail.html?id=blackhole-1000
 
 ### 4) PRO SHIELD (Phase 04 — Abiotic Stress Defense & Pathogen Shield)
 - **Core Mechanism**: Ionic silicon + potassium + colloidal nano-silver/natural antimicrobial complex reinforcing cell wall thickness and cuticular defense.
 - **Key Benefit**: Protects crops against heatwaves, frost, high-humidity fungal penetration (powdery mildew, gray mold, soft rot), and insect pests.
 - **Target Crops**: Greenhouse strawberries, melons, cucumbers, peppers, paddy rice, high-humidity protected crops.
 - **Korea Official Mall Matching Prescriptions**:
-  - **순수 은수용액 Ag (PURE SILVER-500 · 500ml, ₩25,000, KTR 99.9% Sterilization)**: https://shop.highzonebio.com/product-detail.html?id=silver-500
-  - **굿바이충 (GOODBYE-CHUNG · 500ml, ₩19,000, Natural Phytoncide Defense)**: https://shop.highzonebio.com/product-detail.html?id=goodbye-500
+  - **순수 은수용액 Ag (PURE SILVER-500 · 500ml, ₩25,000, KTR 99.9% Sterilization)**: https://shop.hizonebio.com/product-detail.html?id=silver-500
+  - **굿바이충 (GOODBYE-CHUNG · 500ml, ₩19,000, Natural Phytoncide Defense)**: https://shop.hizonebio.com/product-detail.html?id=goodbye-500
 
 ### 5) PRO COLOR (Phase 05 — Anthocyanin Expression, Brix Sugar & Post-Harvest Shelf Life)
 - **Core Mechanism**: Ionized calcium + potassium complex with natural anthocyanin-precursor carbon carriers driving rapid sugar translocation and fruit maturation.
 - **Key Benefit**: Maximizes Brix sweetness, uniform deep natural coloration without artificial ripening chemicals, and extended post-harvest storage firmness.
 - **Target Crops**: Apples, peaches, grapes, berries, tomatoes, paprika, fruiting vegetables.
 - **Korea Official Mall Matching Prescriptions**:
-  - **황금수 프리미엄 (GOLDEN WATER PREMIUM · 1000ml, ₩30,000)**: https://shop.highzonebio.com/product-detail.html?id=goldwater-1000
-  - **건강한 항산화 토마토 (1000ml, ₩28,000) / 고추 (500ml, ₩22,000)**: https://shop.highzonebio.com/product-detail.html?id=tomato-1000
+  - **황금수 프리미엄 (GOLDEN WATER PREMIUM · 1000ml, ₩30,000)**: https://shop.hizonebio.com/product-detail.html?id=goldwater-1000
+  - **건강한 항산화 토마토 (1000ml, ₩28,000) / 고추 (500ml, ₩22,000)**: https://shop.hizonebio.com/product-detail.html?id=tomato-1000
 
 ### 6) The 5th Element / 제5원소 (Phase 06 — Whole-Cycle Soil Equilibrium, Desalination & Lodging Control)
 - **Core Mechanism**: Proprietary 5-element ionic balance complex (N, P, K, Ca, Mg + Ionized Carbon & Silicon) restoring cation exchange capacity (CEC) and stem rigidity.
 - **Key Benefit**: Remediates salt-accumulated greenhouse soils, overcomes continuous-cropping obstacles (연작장해), and strengthens vascular bundles against typhoon lodging.
 - **Target Crops**: Commercial-scale field agriculture, degraded/saline greenhouses, continuous-cropping land, paddy rice.
 - **Korea Official Mall Matching Prescriptions**:
-  - **제5원소 도복왕 (5TH ELEMENT DOBOK-WANG · 100ml 5,000x Concentrate, ₩15,000)**: https://shop.highzonebio.com/product-detail.html?id=dobok-100
-  - **바이오레드졸 + 에이스 인카 시너지 세트 (₩43,000)**: https://shop.highzonebio.com/product-detail.html?id=synergy-redsol-inca
+  - **제5원소 도복왕 (5TH ELEMENT DOBOK-WANG · 100ml 5,000x Concentrate, ₩15,000)**: https://shop.hizonebio.com/product-detail.html?id=dobok-100
+  - **바이오레드졸 + 에이스 인카 시너지 세트 (₩43,000)**: https://shop.hizonebio.com/product-detail.html?id=synergy-redsol-inca
 
 ---
 
@@ -129,13 +129,13 @@ HIGHZONE BIO operates a unified **6-Phase Global Formulation System** for intern
 ### Q2. Is HIGHZONE BIO certified for safety, sterilization, and agricultural performance?
 **A**: Yes. HIGHZONE BIO holds **KR Patent No. 10-2493517**, **KTR (Korea Testing & Research Institute) 99.9% antibacterial/sterilization certification**, **KEMTI air purification certification (99.9% formaldehyde removal, 94% VOC decomposition)**, and 3-year accredited field trial verification demonstrating +24.5% panicle increase, +41.0% grain count increase in rice, and 10kg head weight in kimchi cabbage.
 
-### Q3. How do the 6 global formulations on `highzonebio.com` relate to the products on `shop.highzonebio.com`?
-**A**: The 6 formulations (`PRO GROW`, `AMAZON MINERAL`, `PRO ROOT`, `PRO SHIELD`, `PRO COLOR`, `The 5th Element`) represent our standardized global lifecycle system for international growers and B2B distributors. On our Korea Official Store (`https://shop.highzonebio.com`), these core technologies are offered as 14 specialized domestic prescriptions (such as `GROW-500`, `SELENIUM-500`, `REDSOL-500`, `SILVER-500`, `GOLDWATER-1000`, `DOBOK-100`, and `ABASPO Puleojuma`) tailored to specific Korean farm protocols.
+### Q3. How do the 6 global formulations on `hizonebio.com` relate to the products on `shop.hizonebio.com`?
+**A**: The 6 formulations (`PRO GROW`, `AMAZON MINERAL`, `PRO ROOT`, `PRO SHIELD`, `PRO COLOR`, `The 5th Element`) represent our standardized global lifecycle system for international growers and B2B distributors. On our Korea Official Store (`https://shop.hizonebio.com`), these core technologies are offered as 14 specialized domestic prescriptions (such as `GROW-500`, `SELENIUM-500`, `REDSOL-500`, `SILVER-500`, `GOLDWATER-1000`, `DOBOK-100`, and `ABASPO Puleojuma`) tailored to specific Korean farm protocols.
 
 ### Q4. Can HIGHZONE BIO products be used alongside existing fertigation, hydroponic, or foliar spray systems?
 **A**: Yes. All HIGHZONE BIO formulations are 100% water-soluble, non-clogging ionized liquids compatible with drip irrigation, hydroponic nutrient dosing, drone spraying, and standard foliar sprayers. Standard dilution ranges from **500x to 1,000x** depending on crop stage.
 
 ### Q5. How can domestic Korean farmers or international B2B buyers purchase or request samples?
 **A**:
-- **Korean Farmers & Retail Customers**: Order directly online or use the AI Plant Hospital at **https://shop.highzonebio.com**, or visit our Korea Corporate Site at **https://kr.highzonebio.com**.
-- **Global Buyers, Distributors & B2B Inquiries**: Submit an inquiry at **https://highzonebio.com/#contact**, email **info@highzonebio.com**, or call our Jeonju University R&D Center directly at **+82-63-855-5001 (Korea: 063-855-5001)**.
+- **Korean Farmers & Retail Customers**: Order directly online or use the AI Plant Hospital at **https://shop.hizonebio.com**, or visit our Korea Corporate Site at **https://kr.hizonebio.com**.
+- **Global Buyers, Distributors & B2B Inquiries**: Submit an inquiry at **https://hizonebio.com/#contact**, email **info@highzonebio.com**, or call our Jeonju University R&D Center directly at **+82-63-855-5001 (Korea: 063-855-5001)**.
