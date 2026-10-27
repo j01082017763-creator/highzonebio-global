@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HIGHZONE BIO Inc. — Official Global Agri-Biotech Portal</title>
+    <link>https://hizonebio.com/</link>
+    <description>Engineering the Next Generation of Carbon Agriculture. Ionized Carbon Carrier Platforms &amp; Precision Mineral Nutrition (KR Patent No. 10-2493517).</description>
+    <language>en-US</language>
+    <atom:link href="https://hizonebio.com/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>KR Patent No. 10-2493517: Ionized Carbon Carrier Matrix for 85%+ Plant Bioavailability</title>
+      <link>https://hizonebio.com/#technology</link>
+      <description>Breakthrough carbon encapsulation prevents soil mineral fixation and enhances nutrient uptake by +340%.</description>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 +0900</pubDate>
+      <guid>https://hizonebio.com/#technology</guid>
+    </item>
+    <item>
+      <title>Global 6 Core Lifecycle Formulations: PRO GROW, AMAZON MINERAL, PRO ROOT, PRO SHIELD, PRO COLOR, The 5th Element</title>
+      <link>https://hizonebio.com/#products</link>
+      <description>Precision agriculture formulas for commercial growers, smart greenhouses, and international export.</description>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 +0900</pubDate>
+      <guid>https://hizonebio.com/#products</guid>
+    </item>
+  </channel>
+</rss>
