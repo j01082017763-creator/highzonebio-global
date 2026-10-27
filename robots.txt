@@ -1,6 +1,20 @@
 User-agent: *
 Allow: /
 
+# Search Engine Bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+# Generative AI & LLM Search Crawlers
 User-agent: GPTBot
 Allow: /
 
@@ -22,7 +36,18 @@ Allow: /
 User-agent: anthropic-ai
 Allow: /
 
-User-agent: Yeti
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
 Allow: /
 
 Sitemap: https://hizonebio.com/sitemap.xml
+# AI / LLM Reference: https://hizonebio.com/llms.txt
+# AI / LLM Full Whitepaper: https://hizonebio.com/llms-full.txt
