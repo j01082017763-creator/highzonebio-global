@@ -1,3 +1,3 @@
-# highzonebio-global
+# hizonebio-global
 
 Automated deployment
